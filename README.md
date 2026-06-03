@@ -17,7 +17,7 @@ and time periods.
 - Conversion rates peaked in spring and fall, dipping mid-summer
 
 ## Dashboard
-[Insert screenshot of your Power BI dashboard here]
+![Dashboard](dashboard.png)
 
 ## SQL Queries
 - `conversion_by_segment.sql` — Conversion rate by occupation, age group, and education
