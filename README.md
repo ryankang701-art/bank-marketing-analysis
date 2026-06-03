@@ -17,7 +17,8 @@ and time periods.
 - Conversion rates peaked in spring and fall, dipping mid-summer
 
 ## Dashboard
-![Dashboard](Bank_Campaign_Analysis_PowerBI.png)
+![Dashboard](Bank_Campaign_Analysis_PowerBI.PNG)
+
 ## SQL Queries
 - `conversion_by_segment.sql` — Conversion rate by occupation, age group, and education
 - `conversion_by_channel.sql` — Conversion rate by communication channel and call duration
