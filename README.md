@@ -18,7 +18,6 @@ and time periods.
 
 ## Dashboard
 ![Dashboard](dashboard.png)
-
 ## SQL Queries
 - `conversion_by_segment.sql` — Conversion rate by occupation, age group, and education
 - `conversion_by_channel.sql` — Conversion rate by communication channel and call duration
