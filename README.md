@@ -1,9 +1,7 @@
 # Bank Marketing Campaign Analysis
 
 ## Overview
-Analyzed 45,000 records of bank marketing campaign data to identify 
-conversion drivers across customer segments, communication channels, 
-and time periods.
+What separates a converted customer from a missed one? Digging into 45,000 customer interactions, three things stood out: who the bank called, how long the conversation lasted, and when the campaign ran. Each finding tells a different part of the conversion story and what the bank should test next.
 
 ## Tools Used
 - Google BigQuery (SQL)
