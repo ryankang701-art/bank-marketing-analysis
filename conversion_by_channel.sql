@@ -1,5 +1,5 @@
 SELECT
-  communication_channel,
+  communication, channel,
   CASE
     WHEN call_duration < 60 THEN 'Under 1 min'
     WHEN call_duration BETWEEN 60 AND 180 THEN '1-3 mins'
