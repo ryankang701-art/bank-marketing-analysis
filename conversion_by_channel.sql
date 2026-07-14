@@ -10,5 +10,5 @@ SELECT
   SUM(CASE WHEN conversion_status = 'converted' THEN 1 ELSE 0 END) AS conversions,
   ROUND(SUM(CASE WHEN conversion_status = 'converted' THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2) AS conversion_rate
 FROM `project-694258a4-1dd1-46af-a64.12.Bank Marketing Dataset`
-GROUP BY 1, 2
+GROUP BY channel, occupation
 ORDER BY conversion_rate DESC;
